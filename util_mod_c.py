@@ -18,7 +18,6 @@ from pylab import *
 from collections import Counter
 from scipy import spatial
 from scipy.linalg import logm
-from util_func import tfidf_vector, LCS,expand_last_dim, jaccard_distance,cosine_similarity_ngrams
 from collections import Counter 
 from parserpara import *
 
